@@ -4,13 +4,17 @@
 
 ## Ground rules for us
 
-**#1 Trust is at the core our relationship.** You can count on me for anything you need, wether it is a professional or personal issue. My goal as a manager is to support you in thriving at this job, by removing blockers and directing your efforts towards our team needs and your personal goals. *“Trust is Built in Drops and Lost in Buckets” (Some Dutch fellow)*
+**#1 Trust is at the core our relationship.** You can count on me for anything you need, whether it is a professional or personal issue. My goal as a manager is to support you in thriving at this job, by removing blockers and directing your efforts towards our team needs and your personal goals. 
 
-**#2 Respect**. It goes without saying that we should not tolerate any kind of discrimination regarding race, gender, religion, or nationality. I truly respect who you are and will make sure that you feel safe and comfortable to express your ideas, feelings and true colors.
+> Trust is Built in Drops and Lost in Buckets (Some Dutch fellow)
 
-**#3 No surprises rule.** Anything can happen, but we should talk about it before it happens. We’ll have weekly catch ups to sync. I’ll let you know about any risks, and give you timely feedback. I expect the same from you. If there is *anything* that is making you uncomfortable, let’s talk about it ASAP. Do NOT postpone important conversations.
+**#2 Respect**. It goes without saying that we do not tolerate any kind of discrimination regarding race, gender, religion, nationality, or any identity aspect. I truly respect who you are and will make sure that you feel safe and comfortable to express your ideas, feelings and true colors.
 
-**#4 You. Own. Your. Work.** Autonomy and accountability follow from it. *“With great power comes great responsibility” (Uncle Ben)*
+**#3 No surprises rule.** Anything can happen, but we should talk about risks before they happen. We’ll have weekly catch ups to sync. I’ll let you know about any risks, and give you timely feedback. I expect the same from you. If there is *anything* that is making you uncomfortable, let’s talk about it ASAP. Do NOT postpone important conversations.
+
+**#4 You. Own. Your. Work.** Autonomy and accountability follow from it. And yes, I'll quote spider-man here:
+
+> With great power comes great responsibility (Uncle Ben)
 
 **#5 All in**. You did not get here by chance. You came a long way to get here. You have been selected from a global pool of hundreds of top-notch candidates. Let’s make it worth it. Let’s build the best pentest team ever seen.
 
@@ -80,7 +84,7 @@
 * I can be seriously interested in literally any topic from any perspective. The more unusual, the better. For real, picture a random subject and give it a try.
 * I am addicted to reading. Disturbing books, mostly.
 * Hair won’t be cut. Deal with it.
-* Traveling, hiking, hearing about different cultures, arts, PS4 (I suck at it), cooking paella with wifey.
+* Traveling, hiking, hearing about different cultures, arts, PS4 (I suck at it), cooking paella with wifey. I recently got into tabletop RPGs.
 * I breathe security, especially offensive. I have spent an unreasonable amount of time chasing rabbit holes and debugging codes for missidentation.
 
 ![Alt text](img/alice.png?raw=true "Rabbitholes")
