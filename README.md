@@ -10,7 +10,7 @@
 
 **#2 Respect**. It goes without saying that we do not tolerate any kind of discrimination regarding race, gender, religion, nationality, or any identity aspect. I truly respect who you are and will make sure that you feel safe and comfortable to express your ideas, feelings and true colors.
 
-**#3 No surprises rule.** Anything can happen, but we should talk about risks before they happen. We’ll have weekly catch ups to sync. I’ll let you know about any risks, and give you timely feedback. I expect the same from you. If there is *anything* that is making you uncomfortable, let’s talk about it ASAP. Do NOT postpone important conversations.
+**#3 No surprises rule.** Anything can happen, but we should talk about risks BEFORE they come true. We’ll have weekly catch ups to sync. I’ll let you know about any risks, and give you timely feedback. I expect the same from you. If there is *anything* that is making you uncomfortable, let’s talk about it ASAP. Do NOT postpone important conversations.
 
 **#4 You. Own. Your. Work.** Autonomy and accountability follow from it. And yes, I'll quote spider-man here:
 
@@ -82,7 +82,7 @@
 * I never saw GOT, Squid Games, Stranger Things, etc. Animes? Nope. Marvel stuff? I think I saw Daredevil with Ben Affleck ages ago. I know, right?
 * I enjoy nerding out about philosophy over good Oolongs. Making sense is out of scope. I will try to keep my mouth shut if this does not interest you.
 * I can be seriously interested in literally any topic from any perspective. The more unusual, the better. For real, picture a random subject and give it a try.
-* I am addicted to reading. Disturbing books, mostly.
+* I am addicted to reading. Disturbing books, mostly. You can check what I'm reading [here](https://www.goodreads.com/user/show/37626915-marcos-valle).
 * Hair won’t be cut. Deal with it.
 * Traveling, hiking, hearing about different cultures, arts, PS4 (I suck at it), cooking paella with wifey. I recently got into tabletop RPGs.
 * I breathe security, especially offensive. I have spent an unreasonable amount of time chasing rabbit holes and debugging codes for missidentation.
