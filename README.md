@@ -4,28 +4,30 @@
 
 ## Ground rules for us
 
-**#1 Trust is at the core our relationship.** You can count on me for anything you need, whether it is a professional or personal issue. My goal as a manager is to support you in thriving at this job, by removing blockers and directing your efforts towards our team needs and your personal goals. 
+**#1 Trust is at the core of our relationship.** Count on me for anything you need, whether it is a professional or personal issue. My goal as a manager is to support you in thriving at this job, by removing blockers and directing your efforts towards our team needs and your personal goals. 
 
 > Trust is Built in Drops and Lost in Buckets (Some Dutch fellow)
 
-**#2 Respect**. It goes without saying that we do not tolerate any kind of discrimination regarding race, gender, religion, nationality, or any identity aspect. I truly respect who you are and will make sure that you feel safe and comfortable to express your ideas, feelings and true colors.
+**#2 Respect**. It goes without saying that I do not tolerate any kind of discrimination regarding race, gender, religion, nationality, or other identity aspects. I truly respect who you are. I will make sure that you feel safe and comfortable to express your ideas, feelings and true colors. Don't hesitate in talking to me if that does not happen.
 
-**#3 No surprises rule.** Anything can happen, but we should talk about risks BEFORE they come true. We’ll have weekly catch ups to sync. I’ll let you know about any risks, and give you timely feedback. I expect the same from you. If there is *anything* that is making you uncomfortable, let’s talk about it ASAP. Do NOT postpone important conversations.
+**#3 No surprises rule.** Anything can happen, but we should talk about risks BEFORE they come true. We’ll have periodic meetings to sync. I’ll let you know about any risks ASAP, and give you timely feedback. I expect the same from you. If there is *anything* that is making you uncomfortable, let’s talk about it. Do NOT postpone important conversations.
 
-**#4 You. Own. Your. Work.** Autonomy and accountability follow from it. And yes, I'll quote spider-man here:
+**#4 You. Own. Your. Work.** Autonomy and accountability follow from it:
 
 > With great power comes great responsibility (Uncle Ben)
 
-**#5 All in**. You did not get here by chance. You came a long way to get here. You have been selected from a global pool of hundreds of top-notch candidates. Let’s make it worth it. Let’s build the best pentest team ever seen.
+And yes, I quoted spider-man here.
+
+**#5 All in**. You did not get here by chance. You came a long way for it. You have been selected from a global pool of hundreds of top-notch candidates. Let’s make it worth it. Let’s build the best pentest team. Ever.
 
 **#6 Mental and physical health**. This takes a special place for me. Your wellbeing under all aspects is essential for us to work well, hence a priority for me regardless of what $COMPANY asks for. Do not hesitate in contacting me about things that might be bothering you.
 
 ## My commitments
 
-* I honestly **care** about you, our team, and our mission. Think of me as your ally, at all times.
+* I honestly **care** about you, our team, and our mission. Think of me as your ally, at all times. Especially during tough conversations.
 * I will candidly and constantly **challenge you** to achieve your goals and reach higher. Let's build an actionable plan together for all things improvable, even the ones that are already great.
-* I expect you to openly **challenge me**, bring ideas, vocally disagree, as well as hold me and your peers accountable. Respectfully and elegantly, at all times.
-* Your **health**, either physical or mental, is sacred. I will fight for you to be in your best moment and try to help you when you are not. (check Ground Rule #6)
+* I expect you to openly **challenge me**, bring ideas and vocally disagree, as well as to hold me and our peers accountable. Respectfully and elegantly, at all times.
+* Your **health**, either physical or mental, is sacred. I will fight for you to be at your best moment. I will try to help you when you are not, as much as you allow me to. (check Ground Rule #6)
 * I strongly believe in **motivated individuals and cohesive teams**. My job is to make your job a great experience. I will not sacrifice results for cohesion, though. Expect me to give you clear feedback when things go off track.
 * I will give you **more questions than answers**. This is a feature not a bug.
 
