@@ -85,7 +85,7 @@ And yes, I quoted spider-man here.
 * I enjoy nerding out about philosophy over good Oolongs. Making sense is out of scope. I will try to keep my mouth shut if this does not interest you.
 * I can be seriously interested in literally any topic from any perspective. The more unusual, the better. For real, picture a random subject and give it a try.
 * I am addicted to reading. Disturbing books, mostly. You can check what I'm reading [here](https://www.goodreads.com/user/show/37626915-marcos-valle).
-* Hair won’t be cut. Deal with it.
+* Hair won’t be cut. Deal with it. [Edit: hair got cut. Deal with it.]
 * Traveling, hiking, hearing about different cultures, arts, PS4 (I suck at it), cooking paella with wifey. I recently got into tabletop RPGs.
 * I breathe security, especially offensive. I have spent an unreasonable amount of time chasing rabbit holes and debugging codes for missidentation.
 
